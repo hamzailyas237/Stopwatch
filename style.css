@@ -1,0 +1,22 @@
+h1{
+    display: inline-block;
+    background-color: white;
+    width: 50px;
+}
+
+h2{
+    color: white;
+    font-size: xx-large;
+}
+
+body{
+    text-align: center;
+    background-color: #000;
+}
+
+button{
+    min-width: 7%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
